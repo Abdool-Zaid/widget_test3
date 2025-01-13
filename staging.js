@@ -1,4 +1,4 @@
-window.addEventListener('load',()=>{
+
 // Create the green square
 const greenSquare = document.createElement('div');
 
@@ -13,4 +13,3 @@ greenSquare.style.margin='12px'
 // Append it to the body
 document.body.appendChild(greenSquare);
 
-})
